@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramafikri02)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ramafikri02/ramafikri02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=ramafikri02>&theme=yeblu>" />
