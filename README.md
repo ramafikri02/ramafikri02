@@ -1,8 +1,17 @@
-### Hello 👋
-![Fikri stats](https://github-readme-stats.vercel.app/api?username=ramafikri02&show_icons=true&theme=buefy)
+<p align="center">
+  <a href="https://www.edisonlee55.com"><img src="banner.jpg" alt="ramafikri02 Banner"></a>
+</p>
+
+<h1 align="center">Hi, I'm Fikri!</h1>
+<h1 align="center">Welcome to my GitHub profile~</h1>
+
+<p align="center">
+  <a href="https://github.com/ramafikri02"><img src="https://github-readme-stats.vercel.app/api?username=ramafikri02&hide_border=true&show_icons=true" alt="ramafikri02's github stats"></a>
+</p>
+
+<p align="center">❤ Budak Mihoyo.</p>
 
 <!--
-**ramafikri02/ramafikri02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
