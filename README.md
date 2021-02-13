@@ -1,5 +1,5 @@
-### Hi there 👋
-![M. Ramadhan Fikri stats](https://github-readme-stats.vercel.app/api?username=ramafikri02&show_icons=true&theme=yeblu)
+### Hello 👋
+![Fikri stats](https://github-readme-stats.vercel.app/api?username=ramafikri02&show_icons=true&theme=yeblu)
 
 <!--
 **ramafikri02/ramafikri02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
