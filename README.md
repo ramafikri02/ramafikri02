@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.edisonlee55.com"><img src="banner.jpg" alt="ramafikri02 Banner"></a>
+  <a href="https://www.edisonlee55.com"><img src="banner.png" alt="ramafikri02 Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm Fikri!</h1>
@@ -9,7 +9,7 @@
   <a href="https://github.com/ramafikri02"><img src="https://github-readme-stats.vercel.app/api?username=ramafikri02&hide_border=true&show_icons=true&theme=buefy" alt="ramafikri02's github stats"></a>
 </p>
 
-<p align="center">♞ Horseman ♞</p>
+<p align="center">🔥 I am a cultivator 🔥</p>
 
 <!--
 
