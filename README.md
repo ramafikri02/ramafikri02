@@ -9,7 +9,7 @@
   <a href="https://github.com/ramafikri02"><img src="https://github-readme-stats.vercel.app/api?username=ramafikri02&hide_border=true&show_icons=true&theme=buefy" alt="ramafikri02's github stats"></a>
 </p>
 
-<p align="center">🔥 I am a cultivator 🔥</p>
+<p align="center">🔥 OKE 🔥</p>
 
 <!--
 
