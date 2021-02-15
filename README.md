@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.edisonlee55.com"><img src="banner.png" alt="ramafikri02 Banner"></a>
+  <a href="https://github.com/ramafikri02"><img src="banner.png" alt="ramafikri02 Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm Fikri!</h1>
