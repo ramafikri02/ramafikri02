@@ -2,7 +2,7 @@
 <h1 align="center">Welcome to my GitHub profile~</h1>
 
 <p align="center">
-  <a href="https://github.com/ramafikri02"><img src="https://github-readme-stats.vercel.app/api?username=ramafikri02&hide_border=true&show_icons=true&theme=buefy" alt="ramafikri02's github stats"></a>
+  <a href="https://github.com/ramafikri02"><img src="https://github-readme-stats.vercel.app/api?username=ramafikri02&hide_border=true&show_icons=true&theme=radical" alt="ramafikri02's github stats"></a>
 </p>
 
 <p align="center">🔥 OKE 🔥</p>
