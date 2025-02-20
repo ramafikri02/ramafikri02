@@ -4,10 +4,10 @@
 <h1 align="center">Hi 👋, I'm Fikri</h1>
 <h3 align="center">A passionate developer from Indonesia</h3>
 
-- 🔭 I’m currently working on Sarana Mulya Grafika  
+- 🔭 I’m currently working on Sarana Mulya Grafika.  
   
 
-- 🌱 I’m currently learning Flutter and Elysia JS
+- 🌱 I’m currently understanding cultivation to become immortal.
   
 
 - ⚡ Fun fact: Cat urine glows under a black light.
